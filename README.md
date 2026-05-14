@@ -1,4 +1,5 @@
-This Project serves as a submission for a midterm bonus question worth 5 points of the midterm for MATH 569 - Statistical Learning at IIT.
+**Disclaimer:** This Project served as a submission for a midterm bonus question worth 5 points of the midterm for MATH 569 - Statistical Learning at Illinois Institute of Technology in spring 2024.
+------------------------------
 The assignment was as follows:
 
 Please use the attached data file to construct a K-nearest neighbor (KNN) classifier with various different numbers (remember k has to be odd), starting from k = 1 to some numbers (preferably a large range).
